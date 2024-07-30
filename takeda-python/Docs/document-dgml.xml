@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?><docset:CignaDentalBenefitSummaryRiveronConsulting-section cp:version="3.10.1715056983574-0.0" xmlns:cp="http://classifyprocess.com/2018/07/" xmlns:cpv="http://classifyprocess.com/2018/12/visual" xmlns:docset="http://www.docugami.com/2021/dgml/Nelligan/Riveron05.06" xmlns:addedChunks="http://www.docugami.com/2021/dgml/Nelligan/Riveron05.06/addedChunks" xmlns:dg="http://www.docugami.com/2021/dgml" xmlns:dgc="http://www.docugami.com/2021/dgml/docugami/contracts" xmlns:dgm="http://www.docugami.com/2021/dgml/docugami/medical" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml"><dg:chunk structure="h1">        <docset:NamedInsured>Cigna Dental Benefit Summary <docset:NamedInsured><docset:PlanRenewalDate>Riveron </docset:PlanRenewalDate>Consulting </docset:NamedInsured></docset:NamedInsured>– <dg:chunk>High Plan Plan Renewal Date</dg:chunk>: <docset:RenewalDate>01/01/2024 </docset:RenewalDate></dg:chunk><docset:CignaDentalBenefitSummaryRiveronConsulting structure="div"><docset:InsuredBy-section><dg:chunk structure="h1">
+
+                                                                                             Insured by: </dg:chunk><docset:InsuredBy structure="div"><docset:Carrier structure="p">Cigna Health and <docset:LifeInsuranceCompanyName>Life Insurance Company </docset:LifeInsuranceCompanyName></docset:Carrier><dg:chunk><docset:PlanBenefits structure="p">
+
+        This material is for informational purposes only and is designed to highlight some of the benefits available under this plan. Consult the plan documents to determine specific terms of coverage relating to your plan. Terms include covered procedures, applicable waiting periods, exclusions and limitations. </docset:PlanBenefits><dg:chunk><docset:DentalWellnessPlusSM structure="p">
+
+        Receiving regular dental care can not only catch minor problems before they become major and expensive to treat - it may even help improve your overall health. Gum disease is increasingly being linked to complications for pre -term birth, <dgm:Condition>heart disease</dgm:Condition>, stroke, <dgm:Condition>diabetes</dgm:Condition>, <dgm:Condition>osteoporosis </dgm:Condition>and other health issues. That’s why this dental plan includes Cigna Dental WellnessPlusSM features. When you or your family members receive any preventive care service in <docset:DentalPlanBenefits>one </docset:DentalPlanBenefits>plan <docset:AnnualDentalMaximumIncrease>year</docset:AnnualDentalMaximumIncrease>, the annual dollar maximum will increase in the following plan year. When you or your family me mbers remain enrolled in the plan and continue to receive preventive care, the annual dollar maximum will increase in the following plan year, until it reaches the level specified below. Please refer to your plan materials for additional information on this plan feature. Your plan allows you to see any licensed dentist, but using an in-network dentist may minimize your out-of-pocket expenses. </docset:DentalWellnessPlusSM>
+
+                                                            <xhtml:table structure="table" style="boundingBox:{left: 148; top: 921; width: 2275; height: 2182; page: 1;}; boundingBox:{left: 150; top: 153; width: 2273; height: 2872; page: 2;}; boundingBox:{left: 150; top: 152; width: 2273; height: 1251; page: 3;}; " semantic="docset:CignaDentalChoicePlan"><xhtml:tbody structure="tbody" style="boundingBox:{left: 148; top: 921; width: 2275; height: 2182; page: 1;}; boundingBox:{left: 150; top: 153; width: 2273; height: 2872; page: 2;}; boundingBox:{left: 150; top: 152; width: 2273; height: 1251; page: 3;}; "><xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 921; width: 2275; height: 59; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 921; width: 2256; height: 59; page: 1;}; " colspan="5" semantic="docset:Fees"><dg:chunk structure="h1"><docset:InsurancePlan>Cigna </docset:InsurancePlan>Dental Choice Plan </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 2405; top: 921; width: 18; height: 1521; page: 1;}; " rowspan="10" /></xhtml:tr><xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 981; width: 2275; height: 112; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 980; width: 795; height: 114; page: 1;}; "><dg:chunk structure="h1">Network </dg:chunk></xhtml:td>
+
+                        <xhtml:td structure="td" style="boundingBox:{left: 943; top: 980; width: 731; height: 114; page: 1;}; " colspan="2" semantic="docset:Network"><dg:chunk structure="h1">In-Network: </dg:chunk><dg:chunk structure="h1">
+
+               <dg:chunk>Total Cigna <docset:CignaDPPONetwork>DPPO </docset:CignaDPPONetwork>Network </dg:chunk></dg:chunk></xhtml:td>
+
+                       <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 980; width: 730; height: 114; page: 1;}; " colspan="2"><dg:chunk structure="h1">Non-Network: </dg:chunk><dg:chunk structure="h1">
+
+            See Non-Network Reimbursement </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1094; width: 2275; height: 50; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1094; width: 795; height: 51; page: 1;}; " semantic="docset:Network">Reimbursement Levels </xhtml:td>
+
+                   <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1094; width: 731; height: 51; page: 1;}; " colspan="2" semantic="docset:ReimbursementLevels">Based on <dg:chunk>Contracted Fees </dg:chunk></xhtml:td>
+
+                <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1094; width: 730; height: 51; page: 1;}; " colspan="2" semantic="docset:Non-networkSeeNon-networkReimbursement">Maximum Reimbursable Charge </xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1145; width: 2275; height: 178; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1145; width: 2256; height: 179; page: 1;}; " colspan="5" semantic="docset:WellnessPlusSMProgressiveMaximumBenefit-section"><dg:chunk structure="h1"><dg:chunk><docset:WellnessPlusSMBenefit>WellnessPlusSM </docset:WellnessPlusSMBenefit>Progressive Maximum Benefit</dg:chunk>: </dg:chunk><docset:WellnessPlusSMProgressiveMaximumBenefit structure="div">
+
+          When you or your family members receive any preventive care service during <docset:PreventiveCareAnnualDollarMaximumIncrease>one </docset:PreventiveCareAnnualDollarMaximumIncrease>plan year, the annual dollar maximum will increase in the following plan year; until it reaches the highest level specified below. Please refer to your plan materials for additional i nformation on this plan feature. </docset:WellnessPlusSMProgressiveMaximumBenefit></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1324; width: 2275; height: 173; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1324; width: 795; height: 174; page: 1;}; " semantic="docset:Network"><dg:chunk structure="h1">Calendar Year Benefits Maximum </dg:chunk><dg:chunk structure="h1">
+
+          Applies to: <dg:chunk>Class I</dg:chunk>, II and III expenses </dg:chunk></xhtml:td>
+
+                        <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1324; width: 731; height: 174; page: 1;}; " colspan="2" semantic="docset:BasedonContractedFees"><dg:chunk><dg:chunk structure="p">Year <docset:Year1Amount>1</docset:Year1Amount>: <docset:Year1Amount>$2,000 </docset:Year1Amount></dg:chunk><dg:chunk structure="p">
+
+                        Year <docset:Year2Amount>2</docset:Year2Amount>: <docset:Year2Amount>$2,100 </docset:Year2Amount></dg:chunk></dg:chunk><docset:_3-section><dg:chunk structure="h1">
+
+                        Year <docset:Year>3</docset:Year>: </dg:chunk><docset:_3 structure="div"><dgc:Money structure="p">$2,200 </dgc:Money><dg:chunk structure="p">
+
+                   Year <docset:Year4BeyondTuition>4 </docset:Year4BeyondTuition>&amp; Beyond: <docset:Year4Beyond>$2,300 </docset:Year4Beyond></dg:chunk></docset:_3></docset:_3-section></xhtml:td>
+
+                        <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1324; width: 730; height: 174; page: 1;}; " colspan="2" semantic="docset:MaximumReimbursableCharge"><docset:_1-section><dg:chunk structure="h1">Year <docset:Year1>1</docset:Year1>: </dg:chunk><docset:_1 structure="div"><dgc:Money structure="p">$2,000 </dgc:Money><docset:_2-section><dg:chunk structure="h1">
+
+                        Year <docset:Year2>2</docset:Year2>: </dg:chunk><docset:_2 structure="div">$2,100 </docset:_2></docset:_2-section></docset:_1></docset:_1-section><docset:_3-section><dg:chunk structure="h1">
+
+                        Year <docset:Year>3</docset:Year>: </dg:chunk><docset:_3 structure="div"><dgc:Money structure="p">$2,200 </dgc:Money><dg:chunk structure="p">
+
+                  Year <docset:Year4BeyondTuition>4 </docset:Year4BeyondTuition>&amp; Beyond: <docset:Year4Beyond>$2,300 </docset:Year4Beyond></dg:chunk></docset:_3></docset:_3-section></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1498; width: 2275; height: 75; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1498; width: 795; height: 143; page: 1;}; " rowspan="2" semantic="docset:CalendarYearBenefitsMaximum"><dg:chunk structure="h1">Calendar Year Deductible </dg:chunk><dg:chunk structure="h1">
+
+          <dg:chunk>Individual Family </dg:chunk></dg:chunk></xhtml:td>
+
+                             <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1498; width: 731; height: 76; page: 1;}; " colspan="2" semantic="docset:IndividualFamilyBasedonContractedFees">$25 </xhtml:td>
+
+                             <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1498; width: 730; height: 76; page: 1;}; " colspan="2" semantic="docset:IndividualMaximumReimbursableChargePays">$25 </xhtml:td></xhtml:tr>
+
+                                                                             <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1574; width: 2275; height: 66; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 943; top: 1574; width: 731; height: 67; page: 1;}; " colspan="2" semantic="docset:IndividualBasedonContractedFees">$75 </xhtml:td>
+
+                                                                             <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1574; width: 730; height: 67; page: 1;}; " colspan="2" semantic="docset:FamilyMaximumReimbursableChargePays">$75 </xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1641; width: 2275; height: 49; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1641; width: 795; height: 50; page: 1;}; " semantic="docset:Levelsible"><dg:chunk structure="h1">Benefit Highlights </dg:chunk></xhtml:td>
+
+              <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1641; width: 367; height: 50; page: 1;}; " semantic="docset:BenefitHighlights"><dg:chunk structure="h1">Plan Pays </dg:chunk></xhtml:td>
+
+               <xhtml:td structure="td" style="boundingBox:{left: 1310; top: 1641; width: 364; height: 50; page: 1;}; " semantic="docset:PlanPays"><dg:chunk structure="h1">You Pay </dg:chunk></xhtml:td>
+
+              <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1641; width: 365; height: 50; page: 1;}; "><dg:chunk structure="h1">Plan Pays </dg:chunk></xhtml:td>
+
+               <xhtml:td structure="td" style="boundingBox:{left: 2039; top: 1641; width: 365; height: 50; page: 1;}; " semantic="docset:BenefitHighlightsPays"><dg:chunk structure="h1">You Pay </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 1691; width: 2275; height: 350; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 1691; width: 795; height: 351; page: 1;}; " semantic="docset:ClassIDiagnosticPreventive-section"><dg:chunk structure="h1">Class I: Diagnostic &amp; Preventive </dg:chunk><docset:OralEvaluations-section structure="div"><dg:chunk structure="h1">
+
+          Oral Evaluations </dg:chunk><docset:Prophylaxis-section structure="div"><dg:chunk structure="h1">
+
+          Prophylaxis: </dg:chunk><docset:Prophylaxis structure="div"><dg:chunk structure="p">routine cleanings </dg:chunk><dg:chunk structure="p">
+
+          X-rays: bitewing </dg:chunk></docset:Prophylaxis></docset:Prophylaxis-section><dg:chunk structure="h1">
+
+          <dg:chunk><dgm:Medication>Fluoride </dgm:Medication>Application </dg:chunk></dg:chunk><docset:Sealants-section><dg:chunk structure="h1">
+
+          Sealants: </dg:chunk><docset:Sealants structure="div">per tooth </docset:Sealants></docset:Sealants-section><dg:chunk structure="h1">
+
+          <dg:chunk>Space Maintainers</dg:chunk>: non-orthodontic Emergency Care to Relieve Pain </dg:chunk></docset:OralEvaluations-section></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1691; width: 367; height: 351; page: 1;}; " semantic="docset:PlanPays"><docset:NoDeductible>100% </docset:NoDeductible>No Deductible </xhtml:td>
+
+                <xhtml:td structure="td" style="boundingBox:{left: 1310; top: 1691; width: 364; height: 351; page: 1;}; " semantic="docset:YouPay">No Charge </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 1691; width: 365; height: 351; page: 1;}; " semantic="docset:PlanPays"><docset:NoDeductible>100% </docset:NoDeductible>No Deductible </xhtml:td>
+
+               <xhtml:td structure="td" style="boundingBox:{left: 2039; top: 1691; width: 365; height: 351; page: 1;}; " semantic="docset:YouPay">No Charge </xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 2042; width: 2275; height: 400; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 2042; width: 795; height: 400; page: 1;}; " semantic="docset:BenefitHighlights"><dg:chunk structure="h1"><dg:chunk>Class II</dg:chunk>: <dg:chunk>Basic Restorative </dg:chunk></dg:chunk><docset:ClassII structure="div"><dg:chunk><dg:chunk structure="p">
+
+          X-rays: full mouth </dg:chunk><dg:chunk structure="p">
+
+          X-rays: panoramic </dg:chunk><dg:chunk structure="p">
+
+          X-rays: periapical </dg:chunk></dg:chunk><dg:chunk><docset:Restorative-section><dg:chunk structure="h1">
+
+          Restorative: </dg:chunk><docset:Restorative structure="div">fillings </docset:Restorative></docset:Restorative-section><dg:chunk structure="h1">
+
+          Oral Surgery: simple extractions </dg:chunk><docset:Repairs-section><dg:chunk structure="h1">
+
+          Repairs: </dg:chunk><docset:Repairs structure="div">bridges, crowns and inlays </docset:Repairs></docset:Repairs-section><dg:chunk structure="h1">
+
+          Repairs: dentures </dg:chunk><dg:chunk structure="h1">
+
+          <dg:chunk>Denture Relines</dg:chunk>, Rebases and Adjustments </dg:chunk></dg:chunk></docset:ClassII></xhtml:td>
+
+                 <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2042; width: 367; height: 400; page: 1;}; " semantic="docset:PlanPays"><docset:AfterDeductible>100% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1310; top: 2042; width: 364; height: 400; page: 1;}; " semantic="docset:YouPay"><docset:AfterDeductible>0% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                 <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 2042; width: 365; height: 400; page: 1;}; " semantic="docset:PlanPays"><docset:AfterDeductible>100% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 2039; top: 2042; width: 365; height: 400; page: 1;}; " semantic="docset:YouPay"><docset:AfterDeductible>0% </docset:AfterDeductible>After Deductible </xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 2443; width: 2275; height: 523; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 2442; width: 795; height: 524; page: 1;}; " semantic="docset:ClassIII-section"><dg:chunk structure="h1"><dg:chunk>Class III</dg:chunk>: <dg:chunk>Major <docset:RestorativeClassification>Restorative </docset:RestorativeClassification></dg:chunk></dg:chunk><docset:ClassIII structure="div"><dg:chunk structure="h1">
+
+          <dg:chunk>Periodontal Maintenance </dg:chunk></dg:chunk><dg:chunk structure="h1">
+
+          Anesthesia: general and IV sedation </dg:chunk><dg:chunk structure="h1">
+
+          Endodontics: root canal therapy </dg:chunk><dg:chunk structure="h1">
+
+          Periodontics: scaling and root planing </dg:chunk><dg:chunk structure="h1">
+
+          Periodontics: osseous surgery </dg:chunk><docset:OralSurgery-section><dg:chunk structure="h1">
+
+          <dg:chunk>Oral Surgery</dg:chunk>: oral surgical procedures </dg:chunk><docset:OralSurgery-section structure="div"><dg:chunk structure="h1">
+
+          <dg:chunk>Oral Surgery</dg:chunk>: </dg:chunk><docset:OralSurgery structure="div">extractions of impacted teeth Inlays and <dg:chunk>Onlays Stainless Steel </dg:chunk>and <dg:chunk>Resin Crowns </dg:chunk>Crowns, Bridges and <dg:chunk>Dentures Prosthesis </dg:chunk>Over Implant </docset:OralSurgery></docset:OralSurgery-section></docset:OralSurgery-section></docset:ClassIII></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2442; width: 367; height: 524; page: 1;}; " semantic="docset:ProsthesisOverImplant"><docset:AfterDeductible>60% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1310; top: 2442; width: 364; height: 524; page: 1;}; " semantic="docset:ProsthesisOverImplant"><docset:AfterDeductible>40% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 2442; width: 365; height: 524; page: 1;}; " semantic="docset:ProsthesisOverImplant"><docset:AfterDeductible>60% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 2039; top: 2442; width: 365; height: 524; page: 1;}; " semantic="docset:ProsthesisOverImplant"><docset:AfterDeductible>40% </docset:AfterDeductible>After Deductible </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 2404; top: 2442; width: 19; height: 524; page: 1;}; " /></xhtml:tr><xhtml:tr structure="tr" style="boundingBox:{left: 148; top: 2967; width: 2275; height: 136; page: 1;}; "><xhtml:td structure="td" style="boundingBox:{left: 148; top: 2966; width: 795; height: 137; page: 1;}; " semantic="docset:ClassIV-section"><dg:chunk structure="h1"><dg:chunk>Class IV</dg:chunk>: Orthodontia </dg:chunk><docset:ClassIV structure="div">
+
+          Coverage for Employee and All Dependents Lifetime Benefits Maximum: <docset:EmployeeandAllDependentsLifetimeBenefitsMaximum>$2,000 </docset:EmployeeandAllDependentsLifetimeBenefitsMaximum></docset:ClassIV></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2966; width: 367; height: 137; page: 1;}; " semantic="docset:PlanPays"><docset:NoDeductiblePercentage>50% </docset:NoDeductiblePercentage>No Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1310; top: 2966; width: 364; height: 137; page: 1;}; " semantic="docset:YouPay"><docset:NoDeductiblePercentage>50% </docset:NoDeductiblePercentage>No Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 2966; width: 365; height: 137; page: 1;}; " semantic="docset:PlanPays"><docset:NoDeductiblePercentage>50% </docset:NoDeductiblePercentage>No Deductible </xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 2039; top: 2966; width: 365; height: 137; page: 1;}; " semantic="docset:YouPay"><docset:NoDeductiblePercentage>50% </docset:NoDeductiblePercentage>No Deductible </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 2404; top: 2966; width: 19; height: 137; page: 1;}; " /></xhtml:tr><xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 153; width: 2273; height: 137; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 153; width: 793; height: 137; page: 2;}; " semantic="docset:TMJ-section"><dg:chunk structure="h1">Class V: <docset:TMJClassification>TMJ </docset:TMJClassification></dg:chunk><docset:TMJ structure="div">
+
+          Occlusal orthotic device and adjustment Lifetime Benefits Maximum: <docset:MaximumLifetimeBenefit>$2,000 </docset:MaximumLifetimeBenefit></docset:TMJ></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 943; top: 153; width: 364; height: 137; page: 2;}; " semantic="docset:LifetimeBenefitsMaximum"><dg:chunk structure="h1"><docset:AfterDeductible>50% </docset:AfterDeductible>After Deductible </dg:chunk></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1307; top: 153; width: 367; height: 137; page: 2;}; " semantic="docset:LifetimeBenefitsMaximumAfterDeductible"><dg:chunk structure="h1"><docset:AfterDeductible>50% </docset:AfterDeductible>After Deductible </dg:chunk></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 1674; top: 153; width: 364; height: 137; page: 2;}; "><dg:chunk structure="h1"><docset:AfterDeductible>50% </docset:AfterDeductible>After Deductible </dg:chunk></xhtml:td>
+
+                  <xhtml:td structure="td" style="boundingBox:{left: 2038; top: 153; width: 385; height: 137; page: 2;}; " colspan="2" semantic="docset:LifetimeBenefitsMaximum"><dg:chunk structure="h1"><docset:AfterDeductible>50% </docset:AfterDeductible>After Deductible </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 291; width: 2273; height: 51; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 290; width: 2273; height: 52; page: 2;}; " colspan="6"><docset:BenefitPlanProvisions-cell structure="h1"><dg:chunk>Benefit Plan Provisions</dg:chunk>: </docset:BenefitPlanProvisions-cell></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 343; width: 2273; height: 86; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 342; width: 793; height: 87; page: 2;}; " semantic="docset:BenefitPlanProvisions"><dg:chunk structure="h1">In-Network Reimbursement </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 342; width: 1480; height: 87; page: 2;}; " colspan="5" semantic="docset:BenefitPlanProvisions-NetworkReimbursement50AfterDeductibleAfterDeduct"><docset:DentalReimbursement structure="p">For services provided by a <docset:CignaDentalPPONetwork>Cigna Dental PPO network </docset:CignaDentalPPONetwork>dentist, <docset:DentalReimbursement>Cigna Dental </docset:DentalReimbursement>will reimburse the dentist according to a <dg:chunk>Fee Schedule </dg:chunk>or <dg:chunk>Discount Schedule</dg:chunk>. </docset:DentalReimbursement></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 430; width: 2273; height: 146; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 429; width: 793; height: 147; page: 2;}; " semantic="docset:BenefitPlanProvisions"><dg:chunk structure="h1">Non-Network Reimbursement </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 429; width: 1480; height: 147; page: 2;}; " colspan="5" semantic="docset:Non-NetworkReimbursement"><docset:MaximumReimbursableCharge structure="p">For services provided by a non-network dentist, <docset:MaximumReimbursableCharge>Cigna Dental </docset:MaximumReimbursableCharge>will reimburse according to the <dg:chunk>Maximum Reimbursable Charge</dg:chunk>. The MRC is calculated at the <docset:MaximumReimbursableChargePercentile>90th </docset:MaximumReimbursableChargePercentile>percentile of all provider submitted amounts in the geographic area. The dentist may balance bill up to their usual fees. </docset:MaximumReimbursableCharge></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 577; width: 2273; height: 129; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 576; width: 793; height: 130; page: 2;}; "><dg:chunk structure="h1">Cross Accumulation </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 576; width: 1480; height: 130; page: 2;}; " colspan="5" semantic="docset:CrossAccumulation"><docset:BenefitAccumulation structure="p">All deductibles, plan maximums, and service specific maximums cross accumulate between in and out of network. Benefit frequency limitations are based on the date of service and cross accumulate between in and out of network. </docset:BenefitAccumulation></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 707; width: 2273; height: 89; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 706; width: 793; height: 90; page: 2;}; "><dg:chunk structure="h1">Calendar Year Benefits Maximum </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 706; width: 1480; height: 90; page: 2;}; " colspan="5" semantic="docset:CalendarYearBenefitsMaximum"><docset:PlanMaximums structure="p">The plan will only pay for covered charges up to the plan maximum, when applicable. Benefit- specific maximums may also apply. </docset:PlanMaximums></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 797; width: 2273; height: 86; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 796; width: 793; height: 87; page: 2;}; ">Calendar Year Deductible </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 796; width: 1480; height: 87; page: 2;}; " colspan="5" semantic="docset:CalendarYearDeductible"><docset:DeductibleAmount structure="p">This is the amount you must pay before the plan begins to pay for covered charges , when applicable. Benefit-specific deductibles may also apply. </docset:DeductibleAmount></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 884; width: 2273; height: 89; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 883; width: 793; height: 90; page: 2;}; "><dg:chunk structure="h1">Late Entrant Limitation Provision </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 883; width: 1480; height: 90; page: 2;}; " colspan="5" semantic="docset:LateEntrantLimitationProvision"><dg:chunk structure="p">No coverage except for Class 1 services for <docset:CoverageExclusionPeriod>12 months</docset:CoverageExclusionPeriod>. This provision does not apply to new hires. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 974; width: 2273; height: 86; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 973; width: 793; height: 87; page: 2;}; "><dg:chunk structure="h1">Pretreatment Review </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 973; width: 1480; height: 87; page: 2;}; " colspan="5" semantic="docset:PretreatmentReview"><docset:PretreatmentReview structure="p">Pretreatment review is available on a voluntary basis when dental work in excess of <docset:TreatmentThreshold>$500 </docset:TreatmentThreshold>is proposed. </docset:PretreatmentReview></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1061; width: 2273; height: 152; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1060; width: 793; height: 153; page: 2;}; "><dg:chunk structure="h1">Alternate Benefit Provision </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1060; width: 1480; height: 153; page: 2;}; " colspan="5" semantic="docset:AlternateBenefitProvision"><docset:CoveredDentalServiceDetermination structure="p">When more than one covered <dgc:Org>Dental Service </dgc:Org>could provide suitable treatment based on common dental standards, <docset:DentalServiceDetermination>Cigna </docset:DentalServiceDetermination>will determine the covered <docset:CoveredDentalService>Dental Service </docset:CoveredDentalService>on which payment will be based and the expenses that will be included as <dg:chunk>Covered Expenses</dg:chunk>. </docset:CoveredDentalServiceDetermination></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1214; width: 2273; height: 350; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1213; width: 793; height: 351; page: 2;}; "><dg:chunk structure="h1">Oral Health Integration Program® </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1213; width: 1480; height: 351; page: 2;}; " colspan="5" semantic="docset:After"><docset:DentalCoverage structure="p">The <dg:chunk><docset:DentalCoverage>Cigna </docset:DentalCoverage><docset:DentalOralHealthIntegrationProgram>Dental Oral </docset:DentalOralHealthIntegrationProgram>Health Integration Program </dg:chunk>offers enhanced dental coverage for customers with certain medical conditions. There is no additional charge to participate in the program. Those who qualify can receive reimbursement of their coinsurance for eligible dental services. Eligible customers can also receive guidance on behavioral issues related to oral health. Reimbursements under this program are not subject to the annual deductible, but will be applied to the plan annual maximum. For more information on how to enroll in this program and a complete list of terms and eligible conditions, go to <docset:Website>www.mycigna.com </docset:Website>or call customer service 24/7 at <docset:ProgramDetails>1</docset:ProgramDetails>-<docset:CustomerServiceNumber>800</docset:CustomerServiceNumber>-Cigna24. </docset:DentalCoverage></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1565; width: 2273; height: 50; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1564; width: 793; height: 51; page: 2;}; "><dg:chunk structure="h1">Timely Filing </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1564; width: 1480; height: 51; page: 2;}; " colspan="5" semantic="docset:TimelyFiling"><dg:chunk structure="p">Out of network claims submitted to <docset:OutofNetworkClaimDenial>Cigna </docset:OutofNetworkClaimDenial>after <docset:ClaimsDenialDate>365 days </docset:ClaimsDenialDate>from date of service will be denied. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1616; width: 2273; height: 51; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1615; width: 2273; height: 52; page: 2;}; " colspan="6"><docset:BenefitLimitations-cell structure="h1"><dg:chunk>Benefit Limitations</dg:chunk>: </docset:BenefitLimitations-cell></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1668; width: 2273; height: 89; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1667; width: 793; height: 90; page: 2;}; " semantic="docset:BenefitLimitations">Missing <dg:chunk>Tooth Limitation Provision </dg:chunk></xhtml:td>
+
+           <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1667; width: 1480; height: 90; page: 2;}; " colspan="5" semantic="docset:MissingToothLimitationProvision"><docset:MissingTeethCoverage structure="p">For teeth missing prior to coverage with Cigna, the amount payable is <docset:PercentageofCoverage>50% </docset:PercentageofCoverage>of the amount otherwise payable until covered for <docset:CoveragePeriod>12 months</docset:CoveragePeriod>; thereafter, considered a Class III expense. </docset:MissingTeethCoverage></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1758; width: 2273; height: 49; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1757; width: 793; height: 50; page: 2;}; " semantic="docset:BenefitLimitations">Oral Evaluations/Exams </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1757; width: 1480; height: 50; page: 2;}; " colspan="5" semantic="docset:OralEvaluationsExams"><dg:chunk structure="p"><docset:Frequency>1 </docset:Frequency>per <docset:ConsecutiveMonths>6 consecutive months</docset:ConsecutiveMonths>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1808; width: 2273; height: 53; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1807; width: 793; height: 54; page: 2;}; " semantic="docset:OralEvaluationsExams">X-rays: bitewing </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1807; width: 1480; height: 54; page: 2;}; " colspan="5" semantic="docset:OralEvaluationsExams-RaysBitewing"><dg:chunk structure="p"><docset:FilmSetLimit>1 </docset:FilmSetLimit>set per <docset:MaximumSetLength>12 consecutive months</docset:MaximumSetLength>, limited to <docset:FilmSetLimit>4 </docset:FilmSetLimit>films per set. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1862; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1861; width: 793; height: 53; page: 2;}; " semantic="docset:BenefitLimitationsExams"><docset:X-rays-cell structure="p">X-rays: full mouth or panorex </docset:X-rays-cell></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1861; width: 1480; height: 53; page: 2;}; " colspan="5"><dg:chunk structure="p"><docset:MaximumMonthlyFrequency>1 </docset:MaximumMonthlyFrequency>per <docset:ConsecutiveMonths>60 consecutive months </docset:ConsecutiveMonths>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1915; width: 2273; height: 53; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1914; width: 793; height: 54; page: 2;}; " semantic="docset:BenefitLimitations">X-rays: periapical </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1914; width: 1480; height: 54; page: 2;}; " colspan="5"><dg:chunk structure="p"><docset:MaximumNumberofVisits>4 </docset:MaximumNumberofVisits>per <docset:TreatmentFrequency>12 consecutive months </docset:TreatmentFrequency>if not in conjunction with an operative procedure . </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 1969; width: 2273; height: 49; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 1968; width: 793; height: 50; page: 2;}; " semantic="docset:BenefitLimitations">X-rays: intraoral occlusal </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 1968; width: 1480; height: 50; page: 2;}; " colspan="5"><dg:chunk structure="p"><docset:NumberofEvents>2 </docset:NumberofEvents>per <docset:ReportingPeriod>12 consecutive months </docset:ReportingPeriod>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2019; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2018; width: 793; height: 53; page: 2;}; ">Cleanings </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2018; width: 1480; height: 53; page: 2;}; " colspan="5" semantic="docset:Cleanings"><dg:chunk structure="p"><docset:TreatmentPlan>1 </docset:TreatmentPlan>prophylaxis (<dg:chunk>Class I</dg:chunk>) or periodontal maintenance (Clas s III) per <docset:MaintenanceInterval>6 consecutive months</docset:MaintenanceInterval>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2072; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2071; width: 793; height: 53; page: 2;}; " semantic="docset:BenefitLimitations"><dgm:Medication>Fluoride </dgm:Medication>Application </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2071; width: 1480; height: 53; page: 2;}; " colspan="5" semantic="docset:FluorideApplication"><dg:chunk structure="p"><docset:ChildVisits>1 </docset:ChildVisits>per <docset:EligibilityPeriod>12 consecutive months </docset:EligibilityPeriod>for children under age <docset:AgeLimit>14 </docset:AgeLimit>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2125; width: 2273; height: 86; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2124; width: 793; height: 87; page: 2;}; "><docset:Sealants-cell structure="h1">Sealants: per tooth </docset:Sealants-cell></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2124; width: 1480; height: 87; page: 2;}; " colspan="5" semantic="docset:SealantsPerTooth"><docset:DentalTreatmentLimitations structure="p"><docset:TreatmentLimit>1 </docset:TreatmentLimit>treatment per lifetime for children under age <docset:TreatmentLimit>14</docset:TreatmentLimit>; payable on unrestored permanent bicuspid or molar teeth only. </docset:DentalTreatmentLimitations></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2212; width: 2273; height: 53; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2211; width: 793; height: 54; page: 2;}; ">Space Maintainers </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2211; width: 1480; height: 54; page: 2;}; " colspan="5" semantic="docset:SpaceMaintainers"><dg:chunk structure="p">Limited to non-orthodontic treatment for children under age <docset:TreatmentAgeLimit>14</docset:TreatmentAgeLimit>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2266; width: 2273; height: 89; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2265; width: 793; height: 90; page: 2;}; "><docset:Restoration-cell structure="h1">Restoration: fillings </docset:Restoration-cell></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2265; width: 1480; height: 90; page: 2;}; " colspan="5" semantic="docset:RestorationFillings"><docset:DentalFillings structure="p"><docset:ReplacementFillings>1 </docset:ReplacementFillings>per <docset:ReplacementFillingFrequency>12 consecutive months</docset:ReplacementFillingFrequency>; applies to replacement of identical surface fillings only, no composite, white/tooth colored fillings on bicuspid or molar teeth. </docset:DentalFillings></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2356; width: 2273; height: 172; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2355; width: 793; height: 173; page: 2;}; ">Crowns </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2355; width: 1480; height: 173; page: 2;}; " colspan="5" semantic="docset:Crowns"><docset:DentalCrownReplacement structure="p">Replacement limited to <docset:ReplacementLimit>1 </docset:ReplacementLimit>per <docset:ReplacementLimit>84 consecutive months</docset:ReplacementLimit>. Benefits are based on the amount payable for non-precious metals. No porcelain or white/tooth colored material on molar crowns or bridges. Replacement must be indicated by major decay. For people under age 16, benefits for crowns are limited to resin or stainless steel. </docset:DentalCrownReplacement></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2529; width: 2273; height: 53; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2528; width: 793; height: 54; page: 2;}; "><dg:chunk structure="h1">Stainless Steel and Resin Crowns </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2528; width: 1480; height: 54; page: 2;}; " colspan="5" semantic="docset:StainlessSteelAndResinCrowns"><dg:chunk structure="p"><docset:ChildVisits>1 </docset:ChildVisits>per <docset:MaximumCoveragePeriod>36 consecutive months </docset:MaximumCoveragePeriod>for children under age <docset:MaximumAge>16</docset:MaximumAge>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2583; width: 2273; height: 49; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2582; width: 793; height: 50; page: 2;}; ">Endodontic Treatment </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2582; width: 1480; height: 50; page: 2;}; " colspan="5"><dg:chunk structure="p">Root canal retreatment <docset:RootCanalRetreatmentFrequency>1 </docset:RootCanalRetreatmentFrequency>per <docset:RootCanalRetreatmentFrequency>24 consecutive months</docset:RootCanalRetreatmentFrequency>, based on necessity. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2633; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2632; width: 793; height: 53; page: 2;}; "><dg:chunk structure="h1"><dg:chunk>Periodontal Scaling </dg:chunk>and <dg:chunk>Root Planning </dg:chunk></dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2632; width: 1480; height: 53; page: 2;}; " colspan="5" semantic="docset:PeriodontalScalingAndRootPlanning"><dg:chunk structure="p"><docset:MaximumNumberofQuadrantReports>1 </docset:MaximumNumberofQuadrantReports>per quadrant per <docset:MaximumFrequency>36 consecutive months </docset:MaximumFrequency>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2686; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2685; width: 793; height: 53; page: 2;}; ">Dentures and Partials </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2685; width: 1480; height: 53; page: 2;}; " colspan="5" semantic="docset:DenturesAndPartials"><dg:chunk structure="p">Replacement limited to <docset:ReplacementLimit>1 </docset:ReplacementLimit>per <docset:ReplacementLimit>84 consecutive months</docset:ReplacementLimit>, if unserviceable and cannot be repaired . </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2739; width: 2273; height: 53; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2738; width: 793; height: 54; page: 2;}; ">Denture Adjustments </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2738; width: 1480; height: 54; page: 2;}; " colspan="5" semantic="docset:DentureAdjustments"><dg:chunk structure="p">Covered if more than <docset:CoveragePeriod>12 months </docset:CoveragePeriod>after installation; <docset:CoveragePeriod>1 </docset:CoveragePeriod>per <docset:CoveragePeriod>12 consecutive months </docset:CoveragePeriod>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2793; width: 2273; height: 49; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2792; width: 793; height: 50; page: 2;}; ">Denture Repairs </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2792; width: 1480; height: 50; page: 2;}; " colspan="5" semantic="docset:DentureRepairs"><dg:chunk structure="p">Covered if more than <docset:CoveragePeriod>12 months </docset:CoveragePeriod>after installation . </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2843; width: 2273; height: 52; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2842; width: 793; height: 53; page: 2;}; "><dg:chunk>Denture Rebases </dg:chunk>and Relines </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2842; width: 1480; height: 53; page: 2;}; " colspan="5" semantic="docset:DentureRebasesAndRelines"><dg:chunk structure="p">Covered if more than <docset:CoveragePeriod>12 months </docset:CoveragePeriod>after installation; <docset:CoveragePeriod>1 </docset:CoveragePeriod>per <docset:CoveragePeriod>36 consecutive months </docset:CoveragePeriod>. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 2896; width: 2273; height: 129; page: 2;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 2895; width: 793; height: 130; page: 2;}; ">Prosthesis Over Implant </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 943; top: 2895; width: 1480; height: 130; page: 2;}; " colspan="5" semantic="docset:ProsthesisOverImplant"><docset:DentalCoverage structure="p"><docset:BenefitAmount>1 </docset:BenefitAmount>per <docset:MaximumUnserviceablePeriod>84 consecutive months </docset:MaximumUnserviceablePeriod>if unserviceable and cannot be repaired. Benefits are based on the amount payable for non-precious metals. No porcelain or white/tooth colored material on molar crowns or bridges. </docset:DentalCoverage></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 152; width: 2273; height: 131; page: 3;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 152; width: 794; height: 131; page: 3;}; "><dg:chunk structure="h1">Bridges </dg:chunk></xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 944; top: 152; width: 1479; height: 131; page: 3;}; " colspan="5" semantic="docset:Bridges"><docset:ReplacementLimitations structure="p">Replacement limited to <docset:ReplacementLimit>1 </docset:ReplacementLimit>per <docset:ReplacementLimit>84 consecutive months</docset:ReplacementLimit>, if unserviceable and cannot be repaired. Benefits are based on the amount payable for non -precious metals. No porcelain or white/tooth colored material on molar crowns or bridges . </docset:ReplacementLimitations></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 284; width: 2273; height: 53; page: 3;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 283; width: 794; height: 54; page: 3;}; ">Diagnostic Casts </xhtml:td>
+
+          <xhtml:td structure="td" style="boundingBox:{left: 944; top: 283; width: 1479; height: 54; page: 3;}; " colspan="5" semantic="docset:DiagnosticCasts"><dg:chunk structure="p">Payable only in conjunction with orthodontic workup. </dg:chunk></xhtml:td></xhtml:tr>
+
+          <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 338; width: 2273; height: 90; page: 3;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 337; width: 2273; height: 91; page: 3;}; " colspan="6" semantic="docset:BenefitExclusions-section"><dg:chunk structure="h1">Benefit Exclusions: </dg:chunk><docset:BenefitExclusions structure="div">
+
+          Covered Expenses will not include, and no payment will be made for the following: </docset:BenefitExclusions></xhtml:td></xhtml:tr>
+
+           <xhtml:tr structure="tr" style="boundingBox:{left: 150; top: 429; width: 2273; height: 974; page: 3;}; "><xhtml:td structure="td" style="boundingBox:{left: 150; top: 428; width: 2273; height: 975; page: 3;}; " colspan="6" semantic="docset:BenefitExclusions"><docset:BenefitExclusionsCoveredExpensesWillNotIncludeAndNoPaymentWillBeMade structure="ul" style="list-style-type: circle; boundingBox:{left: 183.3; top: 433.3; width: 2195.8; height: 966.7; page: 3;}; "><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 433.3; width: 1212.5; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 433.3; width: 16.7; height: 41.7; page: 3;}; ">• 
+
+</dg:chunk><dg:chunk structure="p">Procedures and services not included in the list of covered dental expenses; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 483.3; width: 529.2; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 483.3; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="h1">Diagnostic: cone beam imaging; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 533.3; width: 1170.8; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 533.3; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><docset:PreventiveServices-section><dg:chunk structure="h1"><dg:chunk>Preventive Services</dg:chunk>: </dg:chunk><docset:PreventiveServices structure="div">instruction for <dgm:Condition>plaque </dgm:Condition>control, oral hygiene and diet; </docset:PreventiveServices></docset:PreventiveServices-section></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 583.3; width: 2187.5; height: 87.5; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 583.3; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><docset:RestorativeDentistry structure="p">Restorative: core buildup; veneers; precious or semi-precious metals for crowns, bridges and abutments; restoration of teeth which have been damaged by erosion, attrition or abrasion; </docset:RestorativeDentistry></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 670.8; width: 670.8; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 670.8; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><docset:Periodontics-section><dg:chunk structure="h1">Periodontics: </dg:chunk><docset:Periodontics structure="div">bite registrations; splinting; </docset:Periodontics></docset:Periodontics-section></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 720.8; width: 920.8; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 720.8; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><docset:Prosthodontics-section><dg:chunk structure="h1">Prosthodontics: </dg:chunk><docset:Prosthodontics structure="div">precision or semi-precision attachments; </docset:Prosthodontics></docset:Prosthodontics-section></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 770.8; width: 758.3; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 770.8; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><docset:Implants-section><dg:chunk structure="h1">Implants: </dg:chunk><docset:Implants structure="div">implants or implant related services; </docset:Implants></docset:Implants-section></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 820.8; width: 2195.8; height: 87.5; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 820.8; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><docset:Anesthesia-section><dg:chunk structure="h1">Anesthesia: </dg:chunk><docset:Anesthesia structure="div">general anesthesia or intravenous sedation, when used for the purposes of <dgm:Condition>anxiety </dgm:Condition>control or patient management i s not covered; may be considered only when medically or dentally necessary and when in conjunction with covered complex oral surger y; </docset:Anesthesia></docset:Anesthesia-section></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 912.5; width: 2191.7; height: 87.5; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 912.5; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><docset:OcclusalAdjustment structure="p">Procedures, appliances or restorations, whose main purpose is to change vertical dimension, stabilize periodontally involved teeth, or restore <dgm:Condition>occlusion</dgm:Condition>; </docset:OcclusalAdjustment></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1004.2; width: 391.7; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1004.2; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="p">Athletic mouth guards; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1054.2; width: 837.5; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1054.2; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="h1">Services performed primarily for cosmetic reasons; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1104.2; width: 1062.5; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1104.2; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="p">Personalization or decoration of any dental device or dental work; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1154.2; width: 833.3; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1154.2; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="h1">Replacement of an appliance per benefit guidelines; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1204.2; width: 795.8; height: 41.7; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1204.2; width: 16.7; height: 41.7; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="p">Services that are deemed to be medical in nature; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1254.2; width: 770.8; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1254.2; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="p">Services and supplies received from a hospital; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1304.2; width: 445.8; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1304.2; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="h1">Drugs: prescription drugs; </dg:chunk></dg:chunk><dg:chunk structure="li" style="boundingBox:{left: 183.3; top: 1354.2; width: 933.3; height: 45.8; page: 3;}; "><dg:chunk structure="lim" style="boundingBox:{left: 183.3; top: 1354.2; width: 16.7; height: 45.8; page: 3;}; ">           • 
+
+</dg:chunk><dg:chunk structure="p">Charges in excess of the <dg:chunk>Maximum Reimbursable Charge</dg:chunk>. </dg:chunk></dg:chunk></docset:BenefitExclusionsCoveredExpensesWillNotIncludeAndNoPaymentWillBeMade></xhtml:td></xhtml:tr></xhtml:tbody></xhtml:table></dg:chunk><docset:PlanSummary structure="p">         This document provides a summary only. It is not a contract. If there are any differences between this summary and the offici al plan documents, the terms of the official plan documents will prevail. </docset:PlanSummary><dg:chunk><docset:DentalCoverageDetails structure="p">
+
+         Product availability may vary by location and plan ty pe and is subject to change. All group dental insurance policies and dental benefit plans contain exclusions and limitations. For costs and details of coverage, review your plan documents or contact a <docset:InsuranceProvider>Cigna </docset:InsuranceProvider>representative. </docset:DentalCoverageDetails><docset:DentalCoverageDetails structure="p">
+
+         A copy of the <dg:chunk>NH Dental Outline </dg:chunk>of Coverage is available and can be downloaded at <docset:HealthInsuranceForms><dg:chunk>Health Insurance </dg:chunk>&amp; Medical </docset:HealthInsuranceForms>Forms for Customers | Cigna under Dental Forms. </docset:DentalCoverageDetails></dg:chunk><docset:DentalPlanDetails structure="p">
+
+         In <dgc:USState>Texas</dgc:USState>, the insured dental plan is known as <dg:chunk><docset:DentalPlanName>Cigna Dental </docset:DentalPlanName>Choice</dg:chunk>, and this plan uses the national <docset:DentalPlanNetwork>Cigna DPPO Network</docset:DentalPlanNetwork>. </docset:DentalPlanDetails><docset:CignaInsuranceProvider structure="p">
+
+         All <docset:InsuranceProvider>Cigna </docset:InsuranceProvider>products and services are provided exclusively by or through operating subsidiaries of <docset:CignaCorporation>Cigna Corporation</docset:CignaCorporation>, including <docset:InsuranceCompanyName>Cigna Hea lth and <docset:LifeInsuranceCompany>Life Insurance Company </docset:LifeInsuranceCompany>(</docset:InsuranceCompanyName><docset:InsuranceCompany>CHLIC)</docset:InsuranceCompany>, <docset:InsuranceCompanyName><dgc:USState>Connecticut </dgc:USState>General Life Insurance Company</docset:InsuranceCompanyName>, and <docset:DentalInsuranceProvider>Cigna Dental Health, Inc. </docset:DentalInsuranceProvider></docset:CignaInsuranceProvider></dg:chunk></docset:InsuredBy></docset:InsuredBy-section><docset:CopyrightNotice structure="p">
+
+                                                                                                                © <docset:CopyrightYear>2023 </docset:CopyrightYear>Cigna / version <docset:LastUpdatedDate>09302023 </docset:LastUpdatedDate>
+
+</docset:CopyrightNotice></docset:CignaDentalBenefitSummaryRiveronConsulting></docset:CignaDentalBenefitSummaryRiveronConsulting-section>
